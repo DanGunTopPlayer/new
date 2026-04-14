@@ -1,0 +1,7 @@
+#elem {
+    border-width: 3px;
+    border-style: dotted;
+    border-color: red;
+    width: 250px;
+    height: 150px;
+}
